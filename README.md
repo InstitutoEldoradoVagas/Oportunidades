@@ -4,7 +4,7 @@
 
 O Eldorado está presente nos principais rankings nacionais que classificam as melhores empresas para se trabalhar do país. [Institucional]( http://www9.eldorado.org.br)
 
-Confira as vagas disponíveis, cadastre seu currículo e faça parte do Eldorado também! Acesse: [Oportunidades]( http://www9.eldorado.org.br/carreira/)
+Confira as vagas disponíveis, cadastre seu currículo e faça parte de nossa equipe! Acesse: [Oportunidades]( http://www9.eldorado.org.br/carreira/)
 
 
 ## Vagas:
