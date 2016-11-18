@@ -44,7 +44,7 @@ Então envia para nós o seu currículo, e-mail: [bruna.camargo@eldorado.org.br]
 
 **Precisa ter:**
 
-- Imprescível experiência em AngularJS;
+- Imprescindível experiência em AngularJS;
 - Experiência em linguagens de programação Java para o desenvolvimento de aplicações WEB;
 - Indispensável inglês intermediário/avançado para conversação, escrita e leitura, para contato com cliente no exterior;
 - Formação superior em Engenharia/Ciência da Computação, Engenharia Elétrica, Análise de Sistemas ou similar;
