@@ -21,12 +21,12 @@ Confira as vagas disponíveis, cadastre seu currículo e faça parte de nossa eq
 **Precisa ter:**
 
 - Formação superior concluída em Engenharia/Ciência da Computação, Sistemas da Informação ou similar;
+- Desejável experiência de 6 anos desenvolvendo web e/ou aplicações de ecommerce utilizando tecnologias Microsoft;
 - Experiência com algumas das tecnologias: Web API (MS ASP.Net), MVC, WCF, HTML5, CSS, JavaScript, JSON, SOAP, REST, JQuery, .Net Framework, C#, Web Services;
+- Desejável conhecimento com análise de requisitos de negócios, processos, dados e integração de sistemas para determinar/recomendar soluções tecnológicas apropriadas;
+- Desejável conhecimentos em Design Patterns, análise e desenvolvimento de sistemas, análise orientada a objetos, arquitetura, testes e documentação;
 - Conhecimento em desenvolvimento SQL Server, banco de dados, XSLT e metodologia ágil como Scrum;
-- Inglês avançado/fluente para conversação, escrita e leitura, para contato frequente com cliente no exterior;
-- Desejável conhecimento em Design Patterns, análise e desenvolvimento de sistemas, análise orientada a objetos, arquitetura, testes e documentação;
-- Desejável experiência de 4 anos desenvolvendo web e/ou aplicações de ecommerce utilizando tecnologias Microsoft;
-- Desejável conhecimento com análise de requisitos de negócios, processos, dados e integração de sistemas para determinar/recomendar soluções tecnológicas apropriadas.
+- Inglês avançado/fluente para conversação, escrita e leitura, para contato frequente com cliente no exterior.
 
 **Local de trabalho**
 
